@@ -5,34 +5,47 @@
 
 **Tools Used:** (Microsoft Excel, Conditional Formatting, Pivot Table, Pivot Charts, Timelines, Power Query Editor)
 
-**Project Description:** This project analysed customers' purchasing behaviour worldwide in the year 2023. product data of cookies company to identify trends and patterns in sales performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
+**Project Description:** This project analyses Amazon customers’ purchasing behaviour in 2023. It highlights key sales trends and provides insights into buying patterns across products and time periods. The dashboard presents important performance indicators in a clear visual format, enabling stakeholders to identify the most frequently purchased products, compare product performance, monitor purchasing trends over time, and support informed business decisions. The dashboard includes the following features:
 
-Profit by Country and Cookies: Visual representation of profits broken down by each country and type of cookie.
+Top Five Product Categories by Purchase Volume: This visual highlights the five product categories most frequently purchased by customers, offering clear insight into the strongest-performing categories within the dataset.
 
-Total Units Sold per Month: A monthly breakdown of the total units sold, providing insights into sales trends over time.
+Purchase Frequency by Gender: This visual compares purchase frequency across gender groups, showing their relative contribution to overall purchasing activity and providing insight into the customer composition represented in the dataset.
 
-Profit by Month: Displays the monthly profit, allowing for easy comparison of profitability throughout the year.
+Purchase Frequency of Items Over Time: This visual presents monthly purchase frequency, enabling clear comparison of purchasing activity and the identification of trends and fluctuations throughout the year.
 
-Total Revenue by Country: Highlights the total revenue generated in each country, showcasing the performance in different markets.
+Recommendation Helpfulness: This visual summarises customers’ responses regarding the usefulness of recommendations from previous buyers, providing insight into the extent to which these recommendations influenced their purchasing decisions.
+
+Search Methods by Customers: This visual summarises the methods customers use to discover products, offering insight into their preferred search channels and how they navigate the platform before making a purchase.
+
+Customer Shopping Satisfaction: This visual summarises customers’ reported satisfaction with their shopping experience, providing insight into overall sentiment and the distribution of satisfaction levels within the dataset.
+
+Top Three Improvement Areas: This visual highlights the three areas most frequently identified by customers for improvement, helping to prioritise service enhancements and guide initiatives aimed at improving the overall shopping experience.
 
 Additionally, the dashboard includes interactive slicers and timeline for:
 
-Month: Filter the data to view performance for a specific month or range of months.
+Month: Filter the data to view monthly purchase activities.
 
-Country: Focus on specific countries to analyze regional performance.
+Gender: Focus on specific gender groups to analyze their purchasing contributions to the overall purchasing activities.
 
-Product: Drill down into the performance of individual cookie products.
+Product Category: Drill down into the performance of individual categories of products.
 
  
 
 Key findings:
 
-Regional Profitability: Identified the most profitable countries and highlighted regions where performance could be improved.
+Leading Product Categories: The dashboard identifies the five product categories purchased most frequently, highlighting the categories with the strongest customer demand.
 
-Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
+Gender-Based Purchasing: Purchase frequency varies across gender groups, revealing how each group contributes to overall purchasing activity.
 
-Top-Performing Products: Highlighted which cookie products are driving the most revenue and profit, aiding in inventory and marketing decisions.
+Monthly Purchasing Trends: Purchasing activity fluctuates throughout the year, indicating periods of stronger and weaker customer demand.
 
-Sales Volatility: Analyzed monthly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
+Product Discovery: Customers use several search methods to find products, showing the channels that play the greatest role in product discovery.
 
-This dashboard serves as a crucial tool for the cookies company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
+Recommendations and Satisfaction: Customer responses show how helpful previous buyers’ recommendations are and provide insight into overall shopping satisfaction.
+
+Priority Improvement Areas: The three most frequently recommended improvements indicate where service enhancements should be prioritised to strengthen the customer shopping experience.
+
+This dashboard serves as a crucial tool for Amazon’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
+
+**Dashboard Overview**
+![Amazon_Customer](Amazon_Customer.PNG)

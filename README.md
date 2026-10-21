@@ -48,7 +48,7 @@ This dashboard serves as a crucial tool for Amazon’s management team, providin
 
 **Dashboard Overview**
 ![Amazon_Customer](Amazon_Customer.PNG)
-
+[Amazon Customer Behavior Survey Dashboard.xlsx]
 
 
 

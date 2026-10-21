@@ -54,27 +54,35 @@ This dashboard serves as a crucial tool for Amazon’s management team, providin
 
 # Project 2
 
-**Title:**
+**Title:** Global Sports Footwear Sales
 
-**Tools Used:**
+**Tools Used:** (Microsoft Excel, Conditional Formatting, Pivot Table, Pivot Charts, Timelines, Power Query Editor)
 
-**Project Description:** This project involved analysing product data of cookies company to identify trends and patterns in sales performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
+**Project Description:** This project involved analysing different brands of footwear to identify trends and patterns in sales performance between 2018 and 2026. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze their brand's performance across different regions, categories, and time periods. The dashboard includes the following features:
 
-Profit by Country and Cookies: Visual representation of profits broken down by each country and type of cookie.
+Total Revenue: Visual representation of profits broken down by each country and type of cookie.
 
-Total Units Sold per Month: A monthly breakdown of the total units sold, providing insights into sales trends over time.
+Total Revenue by Brand: Visual representation of profits broken down by each country and type of cookie.
 
-Profit by Month: Displays the monthly profit, allowing for easy comparison of profitability throughout the year.
+Total Revenue per Year: A yearly breakdown of the total units sold, providing insights into sales trends over time.
+
+Sales Method:
+
+Total Units Sold by Gender:
 
 Total Revenue by Country: Highlights the total revenue generated in each country, showcasing the performance in different markets.
 
 Additionally, the dashboard includes interactive slicers and a timeline for:
 
-Month: Filter the data to view performance for a specific month or range of months.
+Years: Filter the data to view performance for a specific month or range of months.
+
+Gender:
 
 Country: Focus on specific countries to analyze regional performance.
 
-Product: Drill down into the performance of individual cookie products.
+Brands: Drill down into the performance of individual cookie products.
+
+Category:
 
 
 **Key findings:** 
@@ -90,7 +98,7 @@ Sales Volatility: Analyzed monthly sales fluctuations to understand market dynam
 This dashboard serves as a crucial tool for the cookies company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 **Dashboard Overview:**
-
+![Global_Sports_Footware](Global_Sports_Footware3.PNG)
 
 
 

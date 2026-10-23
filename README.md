@@ -99,12 +99,6 @@ This dashboard gives management a clear view of footwear sales performance. It h
 ![Global_Sports_Footware](Global_Sports_Footware3.PNG)
 
 
-
-
-
-
-
-
 # Project 3
 **Title:**
 
@@ -122,5 +116,95 @@ Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant dat
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 
+# Project 4
 
+**Title:** Global Sports Footwear Sales
+
+**Tools Used:** (Microsoft Excel, Conditional Formatting, Pivot Table, Pivot Charts, Timelines, Power Query Editor)
+
+**Project Description:** This project analyses footwear sales performance from 2018 to 2026. The dashboard provides a clear overview of revenue, units sold, customer segments, and sales trends. Stakeholders can compare performance by brand, country, product category, gender, and time period to support informed business decisions. The dashboard includes the following features:
+ 
+Total Revenue by Brand: A visual representation of revenue generated across brands. It helps stakeholders compare the revenue earned by each footwear brand.
+
+Total Revenue per Year: A yearly breakdown of total revenue generated, showing annual revenue and changes in sales over time.
+
+Sales Method: Shows performance across channels, compares sales channels, and indicates how customers prefer to buy products.
+
+Total Units Sold by Gender: This visual shows the number of products sold to each gender group. 
+
+Total Revenue by Country: Compares revenue across countries and markets.
+
+Additionally, the dashboard includes interactive slicers and a timeline for:
+
+Years: Filter the data to view results for a selected year or date range.
+
+Gender: Compare sales across gender groups.
+
+Country: Focus on specific countries to review performance in a selected country.
+
+Brands: Review the performance of a specific footwear brand.
+
+Category: Compare results across footwear categories.
+
+
+**Key findings:** 
+
+Regional Performance: The dashboard shows the countries with the highest revenue and the markets that need improvement.
+
+Sales Trends: Sales change over time. These patterns can support better planning for stock and marketing.
+
+Top Brands and Categories: The dashboard identifies the brands and categories that generate the most revenue and sales.
+
+Changes in Sales: Differences between reporting periods help users understand market changes and identify areas for further review.
+
+This dashboard gives management a clear view of footwear sales performance. It helps users track results, find growth opportunities, and make better decisions about stock, marketing, and business planning.
+
+**Dashboard Overview:**
+![Global_Sports_Footware](Global_Sports_Footware3.PNG)
+
+
+# Project 5
+
+**Title:** Global Sports Footwear Sales
+
+**Tools Used:** (Microsoft Excel, Conditional Formatting, Pivot Table, Pivot Charts, Timelines, Power Query Editor)
+
+**Project Description:** This project analyses footwear sales performance from 2018 to 2026. The dashboard provides a clear overview of revenue, units sold, customer segments, and sales trends. Stakeholders can compare performance by brand, country, product category, gender, and time period to support informed business decisions. The dashboard includes the following features:
+ 
+Total Revenue by Brand: A visual representation of revenue generated across brands. It helps stakeholders compare the revenue earned by each footwear brand.
+
+Total Revenue per Year: A yearly breakdown of total revenue generated, showing annual revenue and changes in sales over time.
+
+Sales Method: Shows performance across channels, compares sales channels, and indicates how customers prefer to buy products.
+
+Total Units Sold by Gender: This visual shows the number of products sold to each gender group. 
+
+Total Revenue by Country: Compares revenue across countries and markets.
+
+Additionally, the dashboard includes interactive slicers and a timeline for:
+
+Years: Filter the data to view results for a selected year or date range.
+
+Gender: Compare sales across gender groups.
+
+Country: Focus on specific countries to review performance in a selected country.
+
+Brands: Review the performance of a specific footwear brand.
+
+Category: Compare results across footwear categories.
+
+
+**Key findings:** 
+
+Regional Performance: The dashboard shows the countries with the highest revenue and the markets that need improvement.
+
+Sales Trends: Sales change over time. These patterns can support better planning for stock and marketing.
+
+Top Brands and Categories: The dashboard identifies the brands and categories that generate the most revenue and sales.
+
+Changes in Sales: Differences between reporting periods help users understand market changes and identify areas for further review.
+
+This dashboard gives management a clear view of footwear sales performance. It helps users track results, find growth opportunities, and make better decisions about stock, marketing, and business planning.
+
+**Dashboard Overview:**
 

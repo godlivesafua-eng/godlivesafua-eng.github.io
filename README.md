@@ -118,49 +118,44 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 # Project 4
 
-**Title:** Global Sports Footwear Sales
+**Title:** Quebec Housing Sales (2021-2025)
 
-**Tools Used:** (Microsoft Excel, Conditional Formatting, Pivot Table, Pivot Charts, Timelines, Power Query Editor)
+**Tools Used:** (Microsoft Power BI, Power Query Editor, M Code, DAX, Power BI Desktop Canvas, Power BI Services)
 
-**Project Description:** This project analyses footwear sales performance from 2018 to 2026. The dashboard provides a clear overview of revenue, units sold, customer segments, and sales trends. Stakeholders can compare performance by brand, country, product category, gender, and time period to support informed business decisions. The dashboard includes the following features:
+**Project Description:** This project analyses house sales in Quebec from 2021 to 2025. The dashboard provides a clear overview of sales performance, the number and types of properties sold, and renovation trends. Stakeholders can compare results by property type, number of bedrooms, city, and time period to support informed decision-making.
  
-Total Revenue by Brand: A visual representation of revenue generated across brands. It helps stakeholders compare the revenue earned by each footwear brand.
+Total Sales by Number of Bedrooms: A visual representation of total sales based on the number of bedrooms within the property. It helps stakeholders compare the sales made by each property based on the number of bedrooms it has.
 
-Total Revenue per Year: A yearly breakdown of total revenue generated, showing annual revenue and changes in sales over time.
+Total Sales by Number of Bedrooms: Compares total sales across properties with different numbers of bedrooms.
 
-Sales Method: Shows performance across channels, compares sales channels, and indicates how customers prefer to buy products.
+Total Sales by Property Type and Year: Shows annual sales for each property type and highlights changes over time.
 
-Total Units Sold by Gender: This visual shows the number of products sold to each gender group. 
+Number of Properties Sold by Type: Displays the number of properties sold within each property category.
 
-Total Revenue by Country: Compares revenue across countries and markets.
+Properties by Renovation Year: Groups properties by renovation period to show the age and renovation profile of the homes sold.
 
 Additionally, the dashboard includes interactive slicers and a timeline for:
 
-Years: Filter the data to view results for a selected year or date range.
+Year and Timeline: Filter the dashboard by a specific year or date range.
 
-Gender: Compare sales across gender groups.
-
-Country: Focus on specific countries to review performance in a selected country.
-
-Brands: Review the performance of a specific footwear brand.
-
-Category: Compare results across footwear categories.
+City: Compare property sales across cities in Quebec.
 
 
 **Key findings:** 
 
-Regional Performance: The dashboard shows the countries with the highest revenue and the markets that need improvement.
+Sales by Bedroom Count: Properties with more bedrooms generally generated higher total sales, with five-bedroom homes recording the highest value.
 
-Sales Trends: Sales change over time. These patterns can support better planning for stock and marketing.
+Sales Trend: Total sales increased overall during the period, although performance varied from year to year.
 
-Top Brands and Categories: The dashboard identifies the brands and categories that generate the most revenue and sales.
+Property Types: Bungalows accounted for the largest share of properties sold, followed by two-storey homes.
 
-Changes in Sales: Differences between reporting periods help users understand market changes and identify areas for further review.
+Renovation Profile: Most properties were renovated between 1981 and 2000, while fewer properties were renovated in the most recent period.
 
-This dashboard gives management a clear view of footwear sales performance. It helps users track results, find growth opportunities, and make better decisions about stock, marketing, and business planning.
+Overall, the dashboard gives stakeholders a simple view of Quebec’s housing market. It supports comparisons across property types, bedroom counts, cities, and years, helping users identify sales patterns and make informed planning decisions.
+
 
 **Dashboard Overview:**
-![Global_Sports_Footware](Global_Sports_Footware3.PNG)
+![Quebec_Housing](Quebec_Housing.PNG)
 
 
 # Project 5

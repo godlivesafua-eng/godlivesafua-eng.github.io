@@ -160,9 +160,9 @@ Overall, the dashboard gives stakeholders a simple view of Quebec’s housing ma
 
 # Project 5
 
-**Title:** Global Sports Footwear Sales
+**Title:**E-Commerce Analytics
 
-**Tools Used:** (Microsoft Excel, Conditional Formatting, Pivot Table, Pivot Charts, Timelines, Power Query Editor)
+**Tools Used:** (Microsoft Power BI, Power Query Editor, M Code, DAX, Power BI Desktop Canvas, Power BI Services)
 
 **Project Description:** This project analyses footwear sales performance from 2018 to 2026. The dashboard provides a clear overview of revenue, units sold, customer segments, and sales trends. Stakeholders can compare performance by brand, country, product category, gender, and time period to support informed business decisions. The dashboard includes the following features:
  
@@ -202,4 +202,4 @@ Changes in Sales: Differences between reporting periods help users understand ma
 This dashboard gives management a clear view of footwear sales performance. It helps users track results, find growth opportunities, and make better decisions about stock, marketing, and business planning.
 
 **Dashboard Overview:**
-
+![E-Commerce_Sales](E-Commerce_Sales.PNG)

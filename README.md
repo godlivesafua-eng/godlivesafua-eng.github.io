@@ -155,7 +155,7 @@ Overall, the dashboard gives stakeholders a simple view of Quebec’s housing ma
 
 
 **Dashboard Overview:**
-![Quebec_Housing](Quebec_Housing.PNG)
+![Quebec_Housing](Quebec_Housing1.PNG)
 
 
 # Project 5

@@ -104,6 +104,7 @@ This dashboard gives management a clear view of footwear sales performance. It h
 **Dashboard Overview:**
 
 ![Global_Sports_Footware](Global_Sports_Footware3.PNG)
+[Global_Sports_Footware_Data_Manipulation](https://github.com/godlivesafua-eng/godlivesafua-eng.github.io/blob/main/GLOBAL_SPORTS_FOOTWARE_SALES3.xlsx)
 
 
 

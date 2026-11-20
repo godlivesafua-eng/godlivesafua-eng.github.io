@@ -52,7 +52,7 @@ This dashboard therefore serves as a crucial tool for Amazon’s management team
 **Dashboard Overview**
 
 ![Amazon_Customer](Amazon_Customer.PNG)
-[Amazon Customer Behavior Survey Dashboard.xlsx]
+(https://github.com/godlivesafua-eng/godlivesafua-eng.github.io/blob/main/Amazon_Customer_Behavior_Survey.xlsx)
 
 
 

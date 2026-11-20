@@ -161,13 +161,13 @@ Overall, the dashboard gives Stakeholders a clear view of sales performance. It 
 
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
 
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Aggregation (AVG, COUNT): Calculated averages (e.g., duration, number of days, and age) and counted records to analyze trends.
 
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Filtering (WHERE, HAVING, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
-**Project Description:**
+**Project Description:** The purpose of this project was to filter data to extract key information about cancer patients and support better services through informed decisions and facts. Information spanned from 
 
 **Technology used:** SQL server
 

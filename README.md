@@ -148,7 +148,7 @@ Overall, the dashboard gives Stakeholders a clear view of sales performance. It 
 
 **Dashboard Overview:**
 
-![USA_Warehouse_Retail](USA_Warehouse_Retail.PNG)
+![USA_Warehouse_Retail](USA_Warehouse_Retail.PNG) [USA_Warehouse_And_Retail_Data_Interrogation_And_Manipulation]()
 
 
 
